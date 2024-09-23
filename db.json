@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "email": "gvjqws",
+      "username": "vhjsaqvb",
+      "password": "vhs",
+      "id": 1
+    },
+    {
+      "email": "hi@gmail.com",
+      "username": "hi",
+      "password": "12",
+      "id": 2
+    },
+    {
+      "email": "hi@gmail.com",
+      "username": "hi",
+      "password": "12",
+      "id": 3
+    },
+    {
+      "email": "hoi@gmail.com",
+      "username": "hi",
+      "password": "12",
+      "id": 4
+    },
+    {
+      "email": "hoiw@gmail.com",
+      "username": "hoi",
+      "password": "12",
+      "id": 5
+    },
+    {
+      "email": "adhithyan@gmail.com",
+      "username": "Adhithyan",
+      "password": "3244",
+      "id": 6
+    },
+    {
+      "email": "ad@gmail.com",
+      "username": "ad",
+      "password": "12",
+      "id": 7
+    },
+    {
+      "email": "adhithyandask@gmail.com",
+      "username": "Adhithyan",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "email": "adhithyandaskk@gmail.com",
+      "username": "adhithyan",
+      "password": "1234",
+      "id": 9
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Adhithyan",
+      "mobile": "7306291434",
+      "imageUrl": "https://b.fssta.com/uploads/application/soccer/headshots/713.png",
+      "id": 1
+    },
+    {
+      "name": "Akshay",
+      "mobile": "1234567890",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIo6Z2qFDQBBt9X8fpNpcAFSMA8-b4YF21A&s",
+      "id": 2
+    },
+    {
+      "name": "Manu",
+      "mobile": "34567324567",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg/640px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg",
+      "id": 4
+    },
+    {
+      "name": "Sulaiman",
+      "mobile": "2345678568784",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYjj38gX_aNBDJ9Rzk7A8SFJcdyEtNxws4g&s",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "favorite",
+      "contact": [
+        {
+          "name": "Akshay",
+          "mobile": "1234567890",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIo6Z2qFDQBBt9X8fpNpcAFSMA8-b4YF21A&s",
+          "id": 2
+        },
+        {
+          "name": "Adhithyan",
+          "mobile": "7306291434",
+          "imageUrl": "https://b.fssta.com/uploads/application/soccer/headshots/713.png",
+          "id": 1
+        },
+        {
+          "name": "Manu",
+          "mobile": "34567",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg/640px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg",
+          "id": 4
+        }
+      ],
+      "id": 3
+    },
+    {
+      "categoryName": "Favv",
+      "contact": [
+        {
+          "name": "Sulaiman",
+          "mobile": "2345678568784",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYjj38gX_aNBDJ9Rzk7A8SFJcdyEtNxws4g&s",
+          "id": 5
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
